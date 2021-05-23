@@ -16,3 +16,6 @@ Here are some ideas to get you started:
 -->
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=DoveBoy&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+<img alt="🦑" align="left" width="400px" src="https://github.com/DoveBoy/DoveBoy/blob/master/metrics.svg">
+<img alt="🦑" align="left" width="400px" src="https://github.com/DoveBoy/DoveBoy/blob/master/metrics.additional.svg">
