@@ -1244,8 +1244,8 @@
               15
             </div>
                     <div class="entry">
-              <span class="value">7</span>
-              <div class="bar" style="height: 20.588235294117645px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+              <span class="value">9</span>
+              <div class="bar" style="height: 26.47058823529412px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
               16
             </div>
                     <div class="entry">
@@ -1310,8 +1310,8 @@
                 Wed
               </div>
                         <div class="entry">
-                <span class="value">26</span>
-                <div class="bar" style="height: 32.5px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                <span class="value">28</span>
+                <div class="bar" style="height: 35px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                 Thu
               </div>
                         <div class="entry">
@@ -1331,12 +1331,12 @@
                     <div class="chart-bars horizontal">
                         <div class="entry">
                             <span class="name">JavaScript</span>
-                            <div class="bar" style="width: 68.888%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                            <div class="bar" style="width: 68.896%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                             <span class="value">86%</span>
                         </div>
                         <div class="entry">
                             <span class="name">Python</span>
-                            <div class="bar" style="width: 7.223999999999999%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 7.216%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">9%</span>
                         </div>
                         <div class="entry">
