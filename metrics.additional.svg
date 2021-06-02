@@ -1174,8 +1174,8 @@
               01
             </div>
                     <div class="entry">
-              <span class="value">2</span>
-              <div class="bar" style="height: 6.666666666666667px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+              <span class="value">1</span>
+              <div class="bar" style="height: 3.3333333333333335px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
               02
             </div>
                     <div class="entry">
@@ -1274,8 +1274,8 @@
               21
             </div>
                     <div class="entry">
-              <span class="value">5</span>
-              <div class="bar" style="height: 16.666666666666664px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+              <span class="value">6</span>
+              <div class="bar" style="height: 20px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
               22
             </div>
                     <div class="entry">
@@ -1305,8 +1305,8 @@
                 Tue
               </div>
                         <div class="entry">
-                <span class="value">24</span>
-                <div class="bar" style="height: 35.294117647058826px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                <span class="value">25</span>
+                <div class="bar" style="height: 36.76470588235294px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                 Wed
               </div>
                         <div class="entry">
@@ -1315,8 +1315,8 @@
                 Thu
               </div>
                         <div class="entry">
-                <span class="value">32</span>
-                <div class="bar" style="height: 47.05882352941176px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                <span class="value">31</span>
+                <div class="bar" style="height: 45.588235294117645px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                 Fri
               </div>
                         <div class="entry">
