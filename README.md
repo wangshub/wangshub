@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=wangshub&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-<img alt="🦑" align="left" width="400px" src="https://github.com/wangshub/wangshub/blob/main/metrics.svg">
-<img alt="🦑" align="left" width="400px" src="https://github.com/wangshub/wangshub/blob/main/metrics.additional.svg">
+<!-- <img alt="🦑" align="left" width="400px" src="https://github.com/wangshub/wangshub/blob/main/metrics.svg">
+<img alt="🦑" align="left" width="400px" src="https://github.com/wangshub/wangshub/blob/main/metrics.additional.svg"> -->
