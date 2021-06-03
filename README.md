@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**DoveBoy/DoveBoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**wangshub/wangshub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=DoveBoy&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=wangshub&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-<img alt="🦑" align="left" width="400px" src="https://github.com/DoveBoy/DoveBoy/blob/main/metrics.svg">
-<img alt="🦑" align="left" width="400px" src="https://github.com/DoveBoy/DoveBoy/blob/main/metrics.additional.svg">
+<img alt="🦑" align="left" width="400px" src="https://github.com/wangshub/wangshub/blob/main/metrics.svg">
+<img alt="🦑" align="left" width="400px" src="https://github.com/wangshub/wangshub/blob/main/metrics.additional.svg">
